@@ -8,7 +8,7 @@ import java.util.logging.Logger;
  *
  * @author cesarvefe
  */
-public class HorneadorPizzaGruesa {
+public class HorneadorPizzaGruesa implements HorneadorPizza {
 
     public void hornear() {
         Logger.getLogger(HorneadorPizzaGruesa.class.getName())

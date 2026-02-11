@@ -8,7 +8,7 @@ import java.util.logging.Logger;
  *
  * @author cesarvefe
  */
-public class MoldeadorPizzaGruesa {
+public class MoldeadorPizzaGruesa implements MoldeadorPizza {
 
     public void moldearPizzaPequena() {
         Logger.getLogger(MoldeadorPizzaGruesa.class.getName())
