@@ -1,8 +1,7 @@
 
 package edu.unisabana.pizzafactory.model;
 
-
-public class ExcepcionParametrosInvalidos extends Exception implements PreparadorPizza {
+public class ExcepcionParametrosInvalidos extends Exception {
 
     public ExcepcionParametrosInvalidos(String message, Throwable cause) {
         super(message, cause);

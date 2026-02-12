@@ -1,7 +1,7 @@
 
 package edu.unisabana.pizzafactory.model;
 
-public enum Tamano implements PreparadorPizza {
+public enum Tamano {
     
     MEDIANO, PEQUENO;
     

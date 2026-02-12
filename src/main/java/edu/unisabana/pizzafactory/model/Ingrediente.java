@@ -1,8 +1,7 @@
 
 package edu.unisabana.pizzafactory.model;
 
-
-public class Ingrediente implements PreparadorPizza {
+public class Ingrediente {
     private String nombre;
     private int cantidad;
 

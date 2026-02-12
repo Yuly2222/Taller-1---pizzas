@@ -1,7 +1,6 @@
 package edu.unisabana.pizzafactory.model;
 
-
-public interface AmasadorPizza extends PreparadorPizza {
+public interface AmasadorPizza {
     
     public void amasar();
     

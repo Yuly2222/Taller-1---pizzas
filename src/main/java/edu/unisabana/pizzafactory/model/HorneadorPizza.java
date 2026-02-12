@@ -1,7 +1,6 @@
 package edu.unisabana.pizzafactory.model;
 
-
-public interface HorneadorPizza extends PreparadorPizza {
+public interface HorneadorPizza {
     
     public void hornear();
     
