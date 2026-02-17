@@ -1,5 +1,10 @@
 #  GoF Creational – Pizza Factory
 
+Integrantes del equipo:
+- Brayan Presiga Sepulveda - 0000301424
+-  Juan David Sanchez Roldan - 0000301424
+-  Yuly Dayana Rodríguez Salcedo -0000305314
+
 Taller que implementa el patrón de diseño **Abstract Factory (GoF)** para modelar la preparación de distintos tipos de pizza sin acoplar la lógica cliente a clases concretas.
 
 El sistema permite preparar:
@@ -14,6 +19,9 @@ Cada tipo de pizza pertenece a una **familia de productos** compuesta por:
 - Horneador
 
 ---
+![Diagrama del proyecto](imagenPizza.png)
+
+
 
 # Patrón de Diseño Implementado
 
@@ -184,5 +192,6 @@ Este proyecto demuestra la implementación práctica del patrón Abstract Factor
 Se logra un diseño extensible, mantenible y alineado con buenas prácticas de ingeniería de software.
 
 ---
+
 
 
